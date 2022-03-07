@@ -9,11 +9,11 @@
     <schemaversion>2004 3rd Edition</schemaversion>
     <adlcp:location>metadata.xml</adlcp:location>
   </metadata>
-  <organizations default="Pre-Assignment_Exploring_Power_ORG">
-    <organization identifier="Pre-Assignment_Exploring_Power_ORG" adlseq:objectivesGlobalToSystem="false">
-      <title>Pre-Assignment_Exploring Power</title>
+  <organizations default="Pre-Assignment_1.4_-_Exploring_Power_ORG">
+    <organization identifier="Pre-Assignment_1.4_-_Exploring_Power_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Pre-Assignment 1.4 - Exploring Power</title>
       <item identifier="sample_blocks_SCO" identifierref="__5mwHgEQMTd1_course_id_RES" isvisible="true">
-        <title>Pre-Assignment_Exploring Power</title>
+        <title>Pre-Assignment 1.4 - Exploring Power</title>
       </item>
       <metadata>
         <adlcp:location>metadata.xml</adlcp:location>
